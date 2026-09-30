@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "duvet_b_a",
+  "title": "Duvet",
+  "artist": "Bôa",
+  "rate": 48000,
+  "duration": 211.13916666666665,
+  "totalBytes": 1266835,
+  "partCount": 2,
+  "partSize": 900000,
+  "parts": [
+    "duvet_b_a_part01of02.dfpwm",
+    "duvet_b_a_part02of02.dfpwm"
+  ],
+  "cleanMode": true
+}
