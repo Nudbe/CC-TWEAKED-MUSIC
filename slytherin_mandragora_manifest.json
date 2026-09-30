@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "slytherin_mandragora",
+  "title": "Slytherin",
+  "artist": "Mandragora",
+  "rate": 48000,
+  "duration": 208.53666666666666,
+  "totalBytes": 1251220,
+  "partCount": 2,
+  "partSize": 900000,
+  "parts": [
+    "slytherin_mandragora_part01of02.dfpwm",
+    "slytherin_mandragora_part02of02.dfpwm"
+  ],
+  "cleanMode": true
+}
