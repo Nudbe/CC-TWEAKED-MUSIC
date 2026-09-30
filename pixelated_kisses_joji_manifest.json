@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "pixelated_kisses_joji",
+  "title": "Pixelated Kisses",
+  "artist": "Joji",
+  "rate": 48000,
+  "duration": 63.89,
+  "totalBytes": 383340,
+  "partCount": 1,
+  "partSize": 900000,
+  "parts": [
+    "pixelated_kisses_joji_part01of01.dfpwm"
+  ],
+  "cleanMode": true
+}
