@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "wish_you_were_here_pinkfloyd",
+  "title": "Wish You Were Here",
+  "artist": "PinkFloyd",
+  "rate": 48000,
+  "duration": 293.3145,
+  "totalBytes": 1759887,
+  "partCount": 2,
+  "partSize": 900000,
+  "parts": [
+    "wish_you_were_here_pinkfloyd_part01of02.dfpwm",
+    "wish_you_were_here_pinkfloyd_part02of02.dfpwm"
+  ],
+  "cleanMode": true
+}
