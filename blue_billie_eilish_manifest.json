@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "blue_billie_eilish",
+  "title": "BLUE",
+  "artist": "Billie Eilish",
+  "rate": 48000,
+  "duration": 345.75783333333334,
+  "totalBytes": 2074547,
+  "partCount": 3,
+  "partSize": 900000,
+  "parts": [
+    "blue_billie_eilish_part01of03.dfpwm",
+    "blue_billie_eilish_part02of03.dfpwm",
+    "blue_billie_eilish_part03of03.dfpwm"
+  ],
+  "cleanMode": true
+}
