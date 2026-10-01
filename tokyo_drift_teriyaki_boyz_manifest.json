@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "tokyo_drift_teriyaki_boyz",
+  "title": "Tokyo Drift",
+  "artist": "Teriyaki Boyz",
+  "rate": 48000,
+  "duration": 257.254,
+  "totalBytes": 1543524,
+  "partCount": 2,
+  "partSize": 900000,
+  "parts": [
+    "tokyo_drift_teriyaki_boyz_part01of02.dfpwm",
+    "tokyo_drift_teriyaki_boyz_part02of02.dfpwm"
+  ],
+  "cleanMode": true
+}
