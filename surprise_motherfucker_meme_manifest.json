@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "surprise_motherfucker_meme",
+  "title": "Surprise Motherfucker",
+  "artist": "Meme",
+  "rate": 48000,
+  "duration": 1.0216666666666667,
+  "totalBytes": 6130,
+  "partCount": 1,
+  "partSize": 900000,
+  "parts": [
+    "surprise_motherfucker_meme_part01of01.dfpwm"
+  ],
+  "cleanMode": true
+}
