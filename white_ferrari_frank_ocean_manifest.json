@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "white_ferrari_frank_ocean",
+  "title": "White Ferrari",
+  "artist": "Frank Ocean",
+  "rate": 48000,
+  "duration": 248.84833333333333,
+  "totalBytes": 1493090,
+  "partCount": 2,
+  "partSize": 900000,
+  "parts": [
+    "white_ferrari_frank_ocean_part01of02.dfpwm",
+    "white_ferrari_frank_ocean_part02of02.dfpwm"
+  ],
+  "cleanMode": true
+}
