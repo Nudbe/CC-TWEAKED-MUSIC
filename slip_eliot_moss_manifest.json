@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "slip_eliot_moss",
+  "title": "Slip",
+  "artist": "Eliot Moss",
+  "rate": 48000,
+  "duration": 303.6938333333333,
+  "totalBytes": 1822163,
+  "partCount": 3,
+  "partSize": 900000,
+  "parts": [
+    "slip_eliot_moss_part01of03.dfpwm",
+    "slip_eliot_moss_part02of03.dfpwm",
+    "slip_eliot_moss_part03of03.dfpwm"
+  ],
+  "cleanMode": true
+}
