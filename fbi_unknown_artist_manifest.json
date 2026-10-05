@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "fbi_unknown_artist",
+  "title": "FBI",
+  "artist": "Unknown Artist",
+  "rate": 48000,
+  "duration": 7.1065,
+  "totalBytes": 42639,
+  "partCount": 1,
+  "partSize": 900000,
+  "parts": [
+    "fbi_unknown_artist_part01of01.dfpwm"
+  ],
+  "cleanMode": true
+}
