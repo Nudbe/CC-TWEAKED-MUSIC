@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "format": "cc-multipart-dfpwm",
+  "songId": "wildflower_billie_eilish",
+  "title": "WILDFLOWER",
+  "artist": "BILLIE EILISH",
+  "rate": 48000,
+  "duration": 287.90433333333334,
+  "totalBytes": 1727426,
+  "partCount": 2,
+  "partSize": 900000,
+  "parts": [
+    "wildflower_billie_eilish_part01of02.dfpwm",
+    "wildflower_billie_eilish_part02of02.dfpwm"
+  ],
+  "cleanMode": true
+}
